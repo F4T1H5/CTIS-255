@@ -1,19 +1,15 @@
 # CTIS 255 - Frontend Web Technologies Project (Fall Semester 2023-2024)
 
 ## Overview
-This project is a web-based task and project member management application developed using core frontend technologies: **HTML, CSS, JavaScript (jQuery), and FontAwesome**. It demonstrates how to create an interactive and user-friendly interface for managing project tasks and team members.
+A simple To-Do web app to manage tasks and subtasks with a clean UI, built using HTML, CSS, JavaScript (jQuery), and FontAwesome.
 
 ## Features
-- Responsive layout with a sidebar for project members and a main area for tasks.
-- Add, select, and delete tasks dynamically.
-- Create and manage subtasks with completion checkboxes.
-- Modal dialog for creating new tasks.
-- Task and subtask states are saved in browser localStorage for persistence.
-- Keyboard navigation to switch between tasks using arrow keys.
-- Clean and modern UI with styled components and icons.
+- Add, select, and delete tasks
+- Create and check off subtasks
+- Data saved in localStorage
+- Keyboard navigation between tasks
 
-## Technologies Used
-- HTML
-- CSS
-- JavaScript
-- FontAwesome Icons
+## Technologies
+- HTML, CSS
+- JavaScript (jQuery)
+- FontAwesome
